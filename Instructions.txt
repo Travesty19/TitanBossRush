@@ -1,0 +1,9 @@
+Instructions:
+
+Destroy the volcano before he destroys you!
+
+Use arrow keys to move
+
+Use 'a' to blink
+
+Use 'f' to fire
