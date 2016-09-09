@@ -1,7 +1,6 @@
 # TitanBossRush
-https://drive.google.com/file/d/0B45NYovWUs4PMWNoQ0swYmt3bEE/view?usp=sharing
 
-Download Link: https://drive.google.com/file/d/0B45NYovWUs4PMWNoQ0swYmt3bEE/view?usp=sharing
+Download Link: https://www.dropbox.com/s/rtomprshoi0ktua/GGJ_2016%20Build.zip?dl=0
 
 Images: 
 
