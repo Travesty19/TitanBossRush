@@ -1,6 +1,6 @@
 # TitanBossRush
-
-Download Link: https://www.dropbox.com/s/rtomprshoi0ktua/GGJ_2016%20Build.zip?dl=0
+WebLink: http://tinyurl.com/hh5n4er (requires Unity Web Player)
+Download Link: http://tinyurl.com/hlgrbjs
 
 Images: 
 
